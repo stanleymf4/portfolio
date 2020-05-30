@@ -33,6 +33,19 @@ h1 strong {
   background-position-x: right;
 }
 
+.project{
+  /* border-top: 10px solid red;
+  border-right: 10px solid green;
+  border-left: 10px solid orange;
+  border-bottom: 10px solid pink; */
+  /* border-color: red;
+  border-width: 15px;
+  border-style: solid; */
+  border: 1px solid gray;
+  border-radius: 10px;
+  border-top-left-radius: 50px;
+}
+
 .project-details{
   width: 500px;
 }
